@@ -1,0 +1,30 @@
+Contents of /Users/cdsmac4/SkyDrive/iOweiPay/zxing/iphone/ZXingWidget/ZXingWidget_Prefix.pch
+4.0 (tags/Apple/clang-421.10.60) (based on LLVM 3.1svn)
+i386-apple-darwin12.1.0
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-mios-simulator-version-min=4.0
+-I/Users/cdsmac4/SkyDrive/iOweiPay/Build/Products/Debug-iphonesimulator/include
+-I../../cpp/core/src
+-F/Users/cdsmac4/SkyDrive/iOweiPay/Build/Products/Debug-iphonesimulator
+-ferror-limit=10
+-working-directory=/Users/cdsmac4/SkyDrive/iOweiPay/zxing/iphone/ZXingWidget
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=10A5376e

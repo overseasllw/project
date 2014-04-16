@@ -1,0 +1,26 @@
+Contents of /Users/cdsmac4/SkyDrive/iOweiPay/zxing/iphone/ZXingWidget/ZXingWidget_Prefix.pch
+4.0 (tags/Apple/clang-421.10.60) (based on LLVM 3.1svn)
+arm-apple-darwin12.1.0
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+-g
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-miphoneos-version-min=4.0
+-I/Users/cdsmac4/SkyDrive/iOweiPay/Build/Products/Debug-iphoneos/include
+-I../../cpp/core/src
+-F/Users/cdsmac4/SkyDrive/iOweiPay/Build/Products/Debug-iphoneos
+-ferror-limit=10
+-working-directory=/Users/cdsmac4/SkyDrive/iOweiPay/zxing/iphone/ZXingWidget
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=10A5376e
